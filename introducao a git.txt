@@ -1,0 +1,29 @@
+Link para a plataforma dio >> https://web.dio.me/home
+GIT GIT HUB 
+
+LISTA ARQUIVOS 
+windos: dir(diretorio) 	linux: ls(listar)
+
+DIRECIONA PARA UMA PASTA
+windos: cd(change director)	linux: cd(mesmo)
+
+LIMPA TELA:
+windows: cls	linux: clear
+
+CRIAR UMA PASTA(DIRETORIO):
+windows: mkdir 	linux: mkdir
+
+DELETA ARQUIVOS:
+windows: del/rmdir "nome da pasta" /S /Q
+linux: rm -rf "nome da paster"/ "nome do arquivo"
+
+CRIAR PASTA:
+windows: echo "" > "".txt   	PODE SUBSTITUIR O .txt POR OUTROS
+
+
+SHA1 
+A sigla SHA significa Secure Hash Algorithm (Algoritmo de hash seguro), é um conjunto de funcoes
+hash criptográficas projetadas pela NSA (Agência de seguranca Nacional dos EUAS)
+A encriptacao gera conjunto de caracteres indentificador de 40 digítos
+
+OBJETOS: blobs, trees, commits
